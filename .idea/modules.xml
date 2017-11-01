@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab1/lab1.iml" filepath="$PROJECT_DIR$/lab1/lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3/lab3.iml" filepath="$PROJECT_DIR$/lab3/lab3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5/lab5.iml" filepath="$PROJECT_DIR$/lab5/lab5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6/lab6.iml" filepath="$PROJECT_DIR$/lab6/lab6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn1/ovn1.iml" filepath="$PROJECT_DIR$/ovn1/ovn1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn11/ovn11.iml" filepath="$PROJECT_DIR$/ovn11/ovn11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn12/ovn12.iml" filepath="$PROJECT_DIR$/ovn12/ovn12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn3/ovn3.iml" filepath="$PROJECT_DIR$/ovn3/ovn3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn4/ovn4.iml" filepath="$PROJECT_DIR$/ovn4/ovn4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn5/ovn5.iml" filepath="$PROJECT_DIR$/ovn5/ovn5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn7/ovn7.iml" filepath="$PROJECT_DIR$/ovn7/ovn7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn8/ovn8.iml" filepath="$PROJECT_DIR$/ovn8/ovn8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ovn9/ovn9.iml" filepath="$PROJECT_DIR$/ovn9/ovn9.iml" />
+    </modules>
+  </component>
+</project>

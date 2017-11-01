@@ -1,0 +1,12 @@
+package set;
+
+public class mainTest {
+
+	public static void main(String[] args) {
+		ArraySet<Integer> a = new ArraySet<Integer>();
+		a.add(1);
+		// TODO Auto-generated method stub
+
+	}
+
+}
